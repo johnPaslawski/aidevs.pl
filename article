@@ -30,7 +30,14 @@ INFO: Ciekawa analiza aplikacji Threads, która jest niedostępna w Unii Europej
 11) Zwolnienia w branży IT w USA - aktualne statystyki
 https://layoffs.fyi/
 INFO: Ta strona kataloguje wszystkie wielkie fale zwolnień w branży IT od czasów C19. Ostatnio wleciało sporo aktualizacji, więc warto rzucić okiem, jak teraz prezentuje się branża i które firmy mają lub mogą mieć problemy.
+aidevs
+aidevs
 
+aidevs
+aidevs.pl
+aidevs.pl
+aidevs.pl
+aidevs
 12) Przewodnik po chmurach GPU i modelach AI
 https://gpus.llm-utils.org/cloud-gpu-guide/
 INFO: Lepiej uruchamiać modele lokalnie, czy w chmurze? Jeśli lokalnie, to na jakim sprzęcie, a jeśli chmurowe, to gdzie? A tak w ogóle, to co warto uruchamiać na własny użytek? Ten poradnik odpowie na wszystkie te pytania.
@@ -50,7 +57,14 @@ INFO: Developerzy tworzący aplikacje na Androida usłyszeli jakiś czas temu ne
 16) Nadchodzi DALL·E 3
 https://openai.com/dall-e-3
 INFO: OpenAI opublikowało (obecnie jedynie dla grupy testowej) nową wersję swojego generatora grafiki. Główna zmiana ma polegać na lepszym rozumieniu intencji autora prompta i lepszym trzymaniem się opisu. Czy ma szansę dorównać np. Midjourney? Zobaczymy.
+aidevs
+aidevs
 
+aidevs
+aidevs.pl
+aidevs.pl
+aidevs.pl
+aidevs
 17) Tworzenie własnego ROOT-CA w 2023 roku - jak i w jakim celu?
 https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/
 INFO: Autor dzieli się wiedzą, w jaki sposób utworzyć własne CA do podpisywania certyfikatów w firmie, czy w środowisku DEV, aby uniknąć konieczności ich odnawiania co 3 miesiące (jak to ma miejsce w Let’s Encrypt, czy ZeroSSL). Z tekstu dowiesz się jak to zrobić i dlaczego w ogóle ktoś chciałby to zrobić. Tak podpisane certyfikaty działają w przeglądarkach, jak i urządzeniach mobilnych (po zaimportowaniu CA oczywiście).

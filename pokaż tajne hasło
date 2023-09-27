@@ -1,0 +1,25 @@
+W dzieciństwie fascynowała mnie pewna, chyba wielu Czytelnikom znana, opowieść o "zupie na gwoździu". Moja babcia (urodzona jeszcze w XIX wieku) opowiadała mi to w wersji "przyszedł Kozak i poprosił o wodę, bo ma gwóźdź i ugotuje na nim zupę." Zaciekawiona gospodyni dała mu garnek z wodą… i wiemy, co było dalej: "zupa powinna być słona, dajtie, babuszka, trochę soli", potem wypraszał trochę mięsa, "żeby poprawić smak" i tak dalej. Na końcu wyrzucił "ugotowany" gwóźdź.
+Ten artykuł miał więc być o pustce kosmicznej - a to z okazji lądowania europejskiego pojazdu na komecie 67P/Czuriumow-Gierasimienko 12 listopada 2014 r. Ale w trakcie pisania uległem wieloletniemu nawykowi, jestem przecież matematykiem. Jak to jest z Niczym, z Zerem w matematyce?
+
+Jak istnieje Nic?
+Nie można powiedzieć, że Nic nie istnieje. Ono istnieje co najmniej jako pojęcie filozoficzne, matematyczne, religijne i zupełnie potoczne. Zero to zwykła liczba, zero stopni na termometrze to też temperatura, zerowy stan konta bankowego to przykre, ale spotykane. Odnotujmy, że nie ma w chronologii roku zerowego, a to dlatego, że zero wprowadzone zostało do matematyki dopiero w późnym średniowieczu, później niż zaproponowana przez mnicha Dionizego chronologia (VI wiek).
+
+Dziwne, ale moglibyśmy się naprawdę obyć bez tego zera, a w konsekwencji bez liczb ujemnych. W jednym z podręczników logiki napotkałem ćwiczenie: narysuj albo opowiedz, jak sobie wyobrażasz nieobecność ryby. Niesamowite, prawda? Rybę narysować każdy może, ale jej nieobecność?
+
+Teraz krótki kurs z podstaw matematyki. Przyznanie przywileju istnienia zbiorowi pustemu, oznaczanemu przekreślonym kółkiem ∅, to konieczny zabieg, podobny do dołączania zera do zbioru liczb. Zbiór pusty to jedyny zbiór niezawierający żadnego elementu. Takimi zbiorami są:
+
+zbiór prostolinijnych okręgów,
+zbiór liczb wymiernych x, takich, że x2 = 2,
+zbiór wielorybów mieszkających w Pałacu Kultury w Warszawie.
+Ale nie ma dwóch różnych zbiorów pustych. Zbiór pusty jest bowiem zawarty w każdym innym:
+dla każdego zbioru X mamy ∅ ⊂ X.
+Istotnie, reguły logiki matematycznej mówią, że zbiór A jest zawarty w zbiorze B wtedy i tylko wtedy, gdy zdanie:
+x należy do A
+pociąga za sobą
+x należy do B.
+
+W przypadku zbioru pustego ∅ zdanie x należy do ∅ jest zawsze fałszywe, a więc - na mocy praw logiki - cała implikacja jest prawdziwa. Z fałszu wynika wszystko ("tu mi kaktus wyrośnie, jeśli zdasz do następnej klasy..."). Skoro więc zbiór pusty jest zawarty w każdym innym, to gdyby były dwa różne, każdy z nich byłby zawarty w drugim. Jeżeli jednak dwa zbiory są nawzajem w sobie zawarte, to są równe. Dlatego właśnie: jest tylko jeden zbiór pusty!
+
+Postulat istnienia zbioru pustego nie stoi w sprzeczności z żadnymi prawami matematyki, więc czemu nie powołać go do istnienia? Filozoficzna zasada zwana "brzytwą Ockhama" każe likwidować zbędne pojęcia, ale akurat pojęcie zbioru pustego bardzo się w matematyce przydaje. Odnotujmy, że zbiór pusty ma wymiar -1 (minus jeden) - twory zerowymiarowe to punkty i ich rzadko rozmieszczone układy, twory jednowymiarowe to linie, a o bardzo skomplikowanych tworach matematycznych o ułamkowym wymiarze mówiliśmy w rozdziale o fraktalach.
+
+Interesujące, że cały gmach matematyki: liczby, figury, funkcje, operatory, całki, różniczki, równania, ... może być wyprowadzony z jednego pojęcia - zbioru pustego! Wystarczy założyć, że istnieje zbiór pusty, nowo utworzone elementy można łączyć w zbiory, by móc zbudować calutką matematykę. Oto jak niemiecki logik Gottlob Frege konstruował liczby naturalne. Zero to klasa zbiorów, których elementy są we wzajemnie jednoznacznej odpowiedniości z elementami zbioru pustego. Jeden to klasa zbiorów, których elementy są we wzajemnie jednoznacznej odpowiedniości z elementami zbioru, którego jedynym elementem jest zbiór pusty. Dwa to klasa zbiorów, których elementy są we wzajemnie jednoznacznej odpowiedniości z elementami zbioru złożonego ze zbioru pustego i zbioru, którego jedynym elementem jest zbiór pusty... i tak dalej. Na pierwszy rzut oka wygląda to na coś bardzo skomplikowanego, ale naprawdę nie jest.

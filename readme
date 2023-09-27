@@ -1,1 +1,284 @@
-asdasd
+Witamy w artykule !
+
+Jak istnieje Nic?
+Nie można powiedzieć, że Nic nie istnieje. Ono istnieje co najmniej jako pojęcie filozoficzne, matematyczne, religijne i zupełnie potoczne. Zero to zwykła liczba, zero stopni na termometrze to też temperatura, zerowy stan konta bankowego to przykre, ale spotykane. Odnotujmy, że nie ma w chronologii roku zerowego, a to dlatego, że zero wprowadzone zostało do matematyki dopiero w późnym średniowieczu, później niż zaproponowana przez mnicha Dionizego chronologia (VI wiek).
+
+Dziwne, ale moglibyśmy się naprawdę obyć bez tego zera, a w konsekwencji bez liczb ujemnych. W jednym z podręczników logiki napotkałem ćwiczenie: narysuj albo opowiedz, jak sobie wyobrażasz nieobecność ryby. Niesamowite, prawda? Rybę narysować każdy może, ale jej nieobecność?
+
+Teraz krótki kurs z podstaw matematyki. Przyznanie przywileju istnienia zbiorowi pustemu, oznaczanemu przekreślonym kółkiem ∅, to konieczny zabieg, podobny do dołączania zera do zbioru liczb. Zbiór pusty to jedyny zbiór niezawierający żadnego elementu. Takimi zbiorami są:
+
+zbiór prostolinijnych okręgów,
+zbiór liczb wymiernych x, takich, że x2 = 2,
+zbiór wielorybów mieszkających w Pałacu Kultury w Warszawie.
+Ale nie ma dwóch różnych zbiorów pustych. Zbiór pusty jest bowiem zawarty w każdym innym:
+dla każdego zbioru X mamy ∅ ⊂ X.
+Istotnie, reguły logiki matematycznej mówią, że zbiór A jest zawarty w zbiorze B wtedy i tylko wtedy, gdy zdanie:
+x należy do A
+pociąga za sobą
+x należy do B.
+
+W przypadku zbioru pustego ∅ zdanie x należy do ∅ jest zawsze fałszywe, a więc - na mocy praw logiki - cała implikacja jest prawdziwa. Z fałszu wynika wszystko ("tu mi kaktus wyrośnie, jeśli zdasz do następnej klasy..."). Skoro więc zbiór pusty jest zawarty w każdym innym, to gdyby były dwa różne, każdy z nich byłby zawarty w drugim. Jeżeli jednak dwa zbiory są nawzajem w sobie zawarte, to są równe. Dlatego właśnie: jest tylko jeden zbiór pusty!
+
+Postulat istnienia zbioru pustego nie stoi w sprzeczności z żadnymi prawami matematyki, więc czemu nie powołać go do istnienia? Filozoficzna zasada zwana "brzytwą Ockhama" każe likwidować zbędne pojęcia, ale akurat pojęcie zbioru pustego bardzo się w matematyce przydaje. Odnotujmy, że zbiór pusty ma wymiar -1 (minus jeden) - twory zerowymiarowe to punkty i ich rzadko rozmieszczone układy, twory jednowymiarowe to linie, a o bardzo skomplikowanych tworach matematycznych o ułamkowym wymiarze mówiliśmy w rozdziale o fraktalach.
+
+Interesujące, że cały gmach matematyki: liczby, figury, funkcje, operatory, całki, różniczki, równania, ... może być wyprowadzony z jednego pojęcia - zbioru pustego! Wystarczy założyć, że istnieje zbiór pusty, nowo utworzone elementy można łączyć w zbiory, by móc zbudować calutką matematykę. Oto jak niemiecki logik Gottlob Frege konstruował liczby naturalne. Zero to klasa zbiorów, których elementy są we wzajemnie jednoznacznej odpowiedniości z elementami zbioru pustego. Jeden to klasa zbiorów, których elementy są we wzajemnie jednoznacznej odpowiedniości z elementami zbioru, którego jedynym elementem jest zbiór pusty. Dwa to klasa zbiorów, których elementy są we wzajemnie jednoznacznej odpowiedniości z elementami zbioru złożonego ze zbioru pustego i zbioru, którego jedynym elementem jest zbiór pusty... i tak dalej. Na pierwszy rzut oka wygląda to na coś bardzo skomplikowanego, ale naprawdę nie jest.
+
+Nade mną błękit się rozpinał,
+pachniało wrzosem i pachniało miętą...
+Wojciech Młynarski, "Żniwna dziewczyna"
+Trudne do wyobrażenia
+Nicość może być trudna do wyobrażenia. W opowieści Stanisława Lema "Jak ocalał świat" Konstruktor Trurl zbudował maszynę, która miała robić wszystko na literę n. Gdy Klapaucjusz kazał jej zbudować Nic, maszyna zaczęła usuwać ze świata rozmaite przedmioty - z ostatecznym celem usunięcia wszystkiego. "Zrobić Nic, to usunąć wszystko" - wyjaśniła. Zanim przerażony Klapaucjusz zatrzymał maszynę, ze świata zniknęły na dobre kambuzele, ściśnięta, wytrzopki, gryzmaki, rymundy, trzepce, pćmy, graszaki, plukwy, filidrony i zamry. No i rzeczywiście, zniknęły na zawsze…
+
+Bardzo ładnie o nicości pisał Józef Tischner w swojej "Historii filozofii po góralsku". Podczas zeszłych wakacji postanowiłem tej nicości doświadczyć - mianowicie zapuściłem się na torfowiska między Nowym Targiem a Jabłonką na Podhalu. Teren ten nawet nazywa się Pustacią. Idziesz, idziesz, a drogi nie ubywa - oczywiście w naszej skromnej, polskiej skali. Jechałem kiedyś autobusem przez kanadyjską prowincję Saskatchewan. Za oknem rozpościerało się pole kukurydzy. Zdrzemnąłem się na pół godziny. Gdy się obudziłem, jechaliśmy przez to samo pole kukurydzy… Ale, zaraz, czy to jest pustka? W pewnym sensie - brak zmian to właśnie pustka.
+
+Przyzwyczajeni jesteśmy do stałej obecności wokół nas różnych przedmiotów, a od Czegoś nie można uciec nawet zamknąwszy oczy. "Myślę, więc jestem", mówił Kartezjusz. Jeśli już pomyślałem cokolwiek, to znaczy, że Ja jestem, a więc jest na świecie przynajmniej Coś (mianowicie Ja). Czy to, co pomyślałem, istnieje? O tym można dyskutować, ale we współczesnej mechanice kwantowej znana jest zasada Heisenberga: każda obserwacja zakłóca stan obserwowanego przedmiotu. Dopóki nie obserwujemy, to Nic nie istnieje, a gdy zaczynamy patrzeć, obiekt przestaje być Niczym i staje się Czymś. Do granic absurdu doprowadza to zasada antropiczna: nie ma sensu pytać, jaki byłby świat, gdyby nas nie było. Świat jest taki, jaki nam się wydaje. Może inne istoty postrzegałyby Ziemię jako kanciastą?
+
+Pozyton (taki dodatni elektron) jest dziurą w przestrzeni, "brakiem elektronu". W procesie anihilacji elektron wskakuje w ową dziurę i "nic się nie dzieje" - nie ma ani dziury, ani elektronu. Pominę tu liczne dowcipy o dziurach w serze szwajcarskim ("im więcej tego mam, tym mniej mnie jest..."). Znany kompozytor John Cage tak się już wyżyłował z pomysłów, że skomponował (?) utwór muzyczny (?), w którym przez 4 minuty 33 sekundy orkiestra siedzi nieruchomo i oczywiście nic nie gra. "Cztery minuty i trzydzieści trzy sekundy to dwieście siedemdziesiąt trzy, 273, a minus 273 stopni to zero bezwzględne, przy którym każdy ruch ustaje" - wyjaśniał kompozytor (?).
+
+Filister to zero, nihil, nic, nic, nihil, zero!
+Jerzy w filmie Andrzeja Wajdy "Z biegiem lat,
+z biegiem dni"
+A co ze Wszystkim?
+Wielu ludzi (od zwykłych zjadaczy chleba do wybitnych filozofów) zastanawiało się nad fenomenem istnienia. W matematyce sprawa jest prosta: istnieje to, co jest niesprzeczne.
+
+Zniknęła mi na pola skraju
+W chabrach, kąkolach i lwich paszczach...
+Cóż, takie rzeczy się zdarzają
+Przy żniwach zwłaszcza, a przy żniwach
+zwłaszcza…
+Wojciech Młynarski, "Żniwna dziewczyna"
+Na drugim biegunie od Niczego leży Wszystko. W matematyce wiadomo, że Wszystko nie istnieje. Jest to po prostu za mało precyzyjne pojęcie, by jego istnienie było wolne od sprzeczności. Można to zrozumieć na przykładzie starego paradoksu: "Jeśli Bóg jest wszechmogący, to czy może stworzyć taki kamień, którego nie może podnieść?" Matematyczny dowód faktu, że nie może istnieć zbiór wszystkich zbiorów, oparty jest na twierdzeniu Cantora-Bernsteina, orzekającym, że "liczba nieskończona" (matematycznie: liczba kardynalna) zbioru wszystkich podzbiorów danego zbioru jest większa od liczby elementów tego zbioru.
+
+Jeżeli zbiór ma n elementów, to jest w nim 2n podzbiorów; np. gdy n = 3 i zbiór składa się z {1, 2, 3}, to są w nim takie podzbiory:
+
+trzy zbiory dwuelementowe: w każdym z nich brak jednej z liczb 1, 2, 3,
+jeden zbiór pusty,
+trzy zbiory jednoelementowe,
+cały zbiór {1,2,3}
+- razem osiem, 23, a Czytelnikom, którzy niedawno skończyli szkołę średnią, przypominam stosowny wzór:
+
+Każdy z występujących w tym wzorze symboli Newtonaokreśla, ile jest zbiorów k-elementowych w zbiorze n-elementowym.
+
+Współczynniki dwumienne występują w matematyce w wielu innych miejscach, np. w interesujących wzorach skróconego mnożenia:
+
+a od ich dokładnej postaci o wiele bardziej interesująca jest ich wzajemna współzależność.
+
+Trudno zrozumieć, że - jeśli chodzi o logikę i matematykę - Nic istnieje, Wszystko zaś nie. Argumenty za nieistnieniem Wszystkiego, są takie same, jak racje Kubusia Puchatka, który zapytał grzecznie swojego gościa, Tygrysa, czy ogólnie rzecz biorąc, Tygrysy lubią miód, żołędzie i oset? "Tygrysy lubią wszystko", odparł ów, z czego Kubuś wydedukował, że skoro lubią wszystko, to znaczy, że lubią też spać na podłodze, ergo, on, Kubuś, może wrócić do łóżeczka.
+
+Inny argument to paradoks Russella. W miasteczku jest fryzjer, który goli wszystkich mężczyzn, którzy nie golą się sami. Czy goli on sam siebie? Obie odpowiedzi są sprzeczne z narzuconym warunkiem, że goli tych i tylko tych, którzy nie robią tego sami.
+
+W poszukiwaniu zbioru wszystkich zbiorów
+Na zakończenie przytoczę sprytny, ale jak najbardziej matematyczny dowód tego, że nie istnieje zbiór wszystkich zbiorów (nie mylić z capo del tutti capi).
+
+Najpierw pokażemy, że dla żadnego niepuste - go zbioru X nie da się znaleźć funkcji wzajemnie jednoznacznej, odwzorowującej ten zbiór na zbiór jego podzbiorów, P(X). Przypuśćmy więc, że owa funkcja istnieje. Oznaczmy ją tradycyjnym f. Czym jest f(x)? Jest zbiorem. Czy x należy do f(x)? Nie wiadomo. Albo należy, albo nie. Ale dla pewnego x musi jednak tak być, że nie należy on do f(x). No, to rozpatrzmy zbiór tych wszystkich x, dla których x nie należy do f(x). Oznaczmy go (ten zbiór) przez A. Odpowiada mu pewien element a zbioru X. Czy a należy do A? Przypuśćmy, że należy. Ale przecież A jest zbiorem, który zawiera tylko te elementy x, które nie należą do f(x)… No, to może a nie należy do A? Ale przecież zbiór A zawiera wszystkie elementy o tej własności, więc i a. Koniec dowodu.
+
+Gdyby zatem istniał zbiór wszystkich zbiorów, to sam byłby swoim podzbiorem, co jest niemożliwe na mocy poprzedniego rozumowania.
+
+Uff, nie sądzę, by wielu Czytelnik ów przebrnęło przez ten dowód. Przytoczyłem go raczej po to, by pokazać, czym się musieli zająć matematycy w końcu XIX wieku, kiedy zaczęli badać podstawy własnej nauki. Okazało się, że problemy leżą tam, gdzie się ich nikt nie spodziewał. Co więcej, dla całości matematyki owe spory o podstawy nie mają znaczenia: nieważne, co się dzieje w piwnicach - cały gmach matematyki stoi na mocnej skale.
+
+Tymczasem w najwyższej fazie…
+Odnotujmy jeszcze jeden morał, z opowiadań Stanisława Lema. W jednej ze swoich podróży Ijon Tichy dotarł do planety, której mieszkańcy po długiej ewolucji osiągnęli wreszcie Najwyższą Fazę Rozwoju. Są wszechpotężni, wszystko mogą, wszystko mają na wyciągnięcie ręki... i nic nie robią. Leżą na piasku i przesypują go między palcami. "Skoro wszystko można, to nic nie warto" - wyjaśniają zaszokowanemu Ijonowi. Oby tak się nie stało z naszą, europejską cywilizacją…
+
+
+Polecane artykuły
+O tym jak deepfake głęboko nas wkręcaO tym jak deepfake głęboko nas wkręca
+00
+Kłopot z "wynalazcami" AI Gdy algorytm krzyczy: Eureka!Kłopot z "wynalazcami" AI Gdy algorytm krzyczy: Eureka!
+00
+Jeszcze o liczbach  nieparzystychJeszcze o liczbach nieparzystych
+00
+Jak działa światłowód? Przesył informacji - część 2Jak działa światłowód? Przesył informacji - część 2
+00
+Uczyć inaczej (ale czy warto?)
+Uczyć inaczej (ale czy warto?)
+PODZIEL SIĘ:Facebook Tweet Google
+
+W połowie kwietnia uczestniczyłem w Zlocie Pasjonatów Matematyki w Płocku. Tytułem Zlotu było pytanie: "Matematyka - czy można inaczej?" Spotkanie zorganizowały: Mazowieckie Samorządowe Centrum Doskonalenia Nauczycieli, Centrum Edukacji Grupa ORLEN, Wydział Pedagogiczny Uniwersytetu Warszawskiego i Fundacja Edukacja na NOWO. Celem tego wydarzenia były próby znalezienia pozytywnej odpowiedzi na pytanie: "Czy można uczyć inaczej?". W domyśle: lepiej, efektywniej, bardziej interesująco.
+
+Nie będę zanudzać Czytelników dyskusją dydaktyczną na ów temat. W matematyce zawsze się rozwiązywało, rozwiązuje i będzie rozwiązywać zadania. Tego przede wszystkim uczymy naszych uczniów. I słusznie - bo tego wymagamy potem od nich przy egzaminach. Wypełniając im w ten sposób czas, zapominamy jednak o innych, ważnych sprawach. O rozumieniu, czytaniu ze zrozumieniem, analizowaniu i... uważnym patrzeniu. Co rozumiem przez "uważne patrzenie"?
+
+Mogę je określić jako "patrzenie antytelewizyjne". W telewizji pokazują nam obrazek na kilka sekund, zaraz potem drugi, trzeci, czwarty... - ważna jest ich liczba, nieważne, co na nich widać. Tempo, liczy się tempo i zmienność. Nawet na spotkaniach towarzyskich panuje podobna moda na pokazywanie slajdów z wakacji: kilkaset zdjęć w pół godziny.
+
+I oto pierwszy, charakterystyczny przykład. Tego, jak bym chciał nauczać matematyki. Może ktoś spróbuje?
+
+Jak bym chciał nauczać
+
+Rys. 1
+"Narysujcie, uczniowie, dowolny czworokąt, wypukły. Połączcie odcinkami środki kolejnych boków. Co widzicie? Tak, Michał ma rację - powstał równoległobok. Czy u każdego pojawił się równoległobok? A czy potraficie udowodnić, że tak zawsze będzie? No, jasne, Agnieszka do tablicy... Masz rację, wystarczy dorysować przekątne czworokąta i wszystko jasne."
+
+Na zwykłych lekcjach byłby to koniec tematu. U mnie początek. Mówię następnie: "Spójrzcie na rysunek (po lewej) i ułóżcie jakieś zadanie, związane z nim. Tak, z tym rysunkiem. Jedno właśnie rozwiązywaliśmy - po połączeniu środków boków powstał równoległobok. Jak to jakie zadanie? Nie rozumiesz - masz ułożyć, stworzyć zadanie."
+
+Z moich doświadczeń wynika, że uczniowie nie wychodzą poza zadania w rodzaju "oblicz pole tego równoległoboku, oblicz obwód" itp. Nie rozumieją też, co nazywam problemem (twierdzeniem) odwrotnym. Wyjaśniam to tak: "Masz dany równoległobok (różowy na rys. 1). Czy możesz dorysować do niego czworokąt tak, by ten równoległobok był równoległobokiem środków? A czy na jeden sposób, czy na więcej? Co mają wspólnego ze sobą te sposoby?"
+
+Staram się pokazywać uczniom to wszystko w ruchu. Nie znam się na Geogebrze, używam innych programów, ale słyszałem - ona wszystko wyrysuje, w animacji. A zatem zadaję uczniom takie zadanie (gdy przerabiam je z nauczycielami, daję dosłownie takie polecenia, jak napisałem niżej - z uczniami staram się być bardziej poważny).
+
+Zachwyty i dziwy
+Zadanie na programy Cabri, Geogebra, C.a.R. itp. (uwaga: bez tych programów też większość tych poleceń ma sens).
+
+Narysować zielony (może być inny zimny kolor) czworokąt.
+Zaznaczyć środki boków.
+Połączyć środki kolejnych boków odcinkami; zaznaczyć otrzymany tak czworokąt ciepłym kolorem.
+Animować rysunek i wznosić okrzyki zachwytu, że czworokąt zmienia kształt, a wewnątrz równoległobok jak był, tak i jest.
+Dorysować przekątne tego równoległoboku i zaznaczyć ich punkt przecięcia.
+Narysować okręgi o środku w punkcie przecięcia przekątnych równoległoboku środków, przechodzące przez przeciwległe wierzchołki.
+Ruszać wierzchołkiem czworokąta i dziwować się w głos, jak się te okręgi zmieniają.
+Postawić problem, kiedy okręgi te się pokryją.
+Umiejscowić cały rysunek na siatce, wybrać dogodne współrzędne.
+Animując całą sytuację (jak w pkt. 4), odgadnąć warunek konieczny i dostateczny na to, by równoległobok środków był prostokątem. A kwadratem? Zapamiętać (zanotować) hipotezę i odłożyć do sprawdzenia w drugiej części zajęć.
+Obejrzeć, co się dzieje, gdy czworokąt wyjściowy degeneruje się do trójkąta. Zaproponować zadania dotyczące tej sytuacji.
+Czy spodziewałeś się, Czytelniku, że z tak banalnej własności da się zrobić cały pakiet zagadnień do dyskusji? A to nie koniec. Teraz rzucam pytanie: "Czy potraficie uogólnić tę własność?". Na ogół nikt nic nie wie, więc naprowadzam: "No, to weźmy trójkąt zamiast czworokąta. Jak to będzie w trójkącie? Dobrze, Oliwio, ten mały trójkąt będzie podobny do dużego. Czy wszyscy pamiętają, co to są trójkąty podobne? A w jakiej skali?"
+
+Mówię dalej: "To weźmy pięciokąt..." Po dłuższej chwili wszyscy spostrzegają, że... nic nie widać. Bo teraz jest już trudniej. Biorę sześciokąt, rzucam rysunek:
+
+
+Rys. 2
+
+Ale tylko licealiści są w stanie zgadnąć kryjące się za tym twierdzenie i nawet uogólnić je na wielokąty o większej liczbie boków. Gdy już wszyscy wydają się zmęczeni tym tak wałkowanym zagadnieniem, przechodzę do arytmetyki: pokazuję kwadrat liczbowy, np. taki:
+
+
+Rys. 3
+
+Wyjaśniam, że liczby stojące w środkach boków są średnimi arytmetycznymi liczb wierzchołkowych. Przechodzę do bardzo trudnego zagadnienia: "Czy widzicie, że to jest zadanie izomorficzne (tak naprawdę nie używam tego słowa) z poprzednim?" "Jak to, to przecież co innego, tam była geometria, a tu arytmetyka..." - protestują uczniowie, a ja przypomnę, że każdy nauczyciel spotkał się z taką sytuacją: "Nie, nie pszepani, to zupełnie inne zadanie - tamto do domu było o cukierkach, a to na klasówce o czekoladkach!".
+
+Mam zatem temat na dalszą długą dyskusję - przetłumaczyć wszystkie pytania z sytuacji geometrycznej na arytmetyczną, odpowiedzieć na wszystko, a w szczególności: "Czy dla zadanych średnich arytmetycznych można odzyskać wyjściowe liczby? Czy jednoznacznie? Co dla trójkątów, pięciokątów, sześciokątów liczbowych?"
+
+Gdy już wszyscy "mają dość", rzucam następne pytania: "A gdy weźmiemy inne średnie?" Ale nie nalegam i gdy mam do czynienia z licealistami albo nauczycielami, zadaję jeszcze jedno pytanie (i wtedy znowu się ożywiają): "No, to iterujmy postępowanie. Róbmy tak dalej, średnie ze średnich, średnie średnich średnich... Masz rację, Patryku, weźmy komputer. Umiecie już Excela, prawda? No, to proszę, zaprogramujcie taki zagnieżdżający się układ , powiedzmy do dziesiątego piętra, czyli żeby było dziesięć zagnieżdżających się kwadratów. Weźcie jakieś liczby wyjściowe, bawcie się nimi. Obserwujcie tylko wyniki."
+
+No i już gotowy temat na pierwszą pracę naukową, na początek bardzo skromną. Ale, ale... wróćmy znów do geometrii. Co nam wyjdzie, jeżeli będziemy powtarzać naszą konstrukcję, w głąb i w głąb... To zadanie dla Czytelników. A ja zwrócę tylko uwagę na to, że wyszliśmy z łatwego i pozornie nieciekawego zadania... i zobaczyliśmy w nim znacznie więcej. To:
+
+
+Rys. 4
+
+Zadania otwarte na zmiany
+Na przykładzie dwóch zadań powiem, jak można by nauczać inaczej. Przyzwyczajeni jesteśmy do tego, że matematyka to taki ciąg: nauczyciel zadaje zadanie, uczeń rozwiązuje, nauczyciel omawia i... zadaje następne zadanie. Matematyka jako ciąg: zadanie-rozwiązanie- zadanie- rozwiązanie... Czy w ogóle można inaczej?
+
+Można. Ale to sprawa trudna, wymaga innego spojrzenia na proces nauczania. A oto drugie zadanie, otwarte. Wziąłem je z zestawu zadań przygotowawczych do pewnych warsztatów matematycznych o zasięgu europejskim, miało tam numer 8 (http://goo.gl/lsnBm9).
+
+Numerujemy pola szachownicy, rozciągającej się w nieskończoność w górę i w prawo. Zaczynamy numerację od zera. W zerowym wierszu i zerowej kolumnie (to znaczy w lewym dolnym narożniku) stawiamy 0, a następnie w każdym innym polu stawiamy najmniejszą liczbę (nieujemną, całkowitą), która nie pojawia się ani na lewo, ani poniżej tego pola, o tak:
+
+
+Rys. 5
+
+Jaka liczba będzie stać w kwadracie w wierszu numer 2016 i kolumnie numer 1601? Can you generalize? Zostawiłem, dla uwypuklenia, ostatnie zdanie po angielsku. Znaczy ono: "Czy potrafisz uogólnić?" To nazywam właśnie zadaniem otwartym - nie kończy się na rozwiązaniu. "Czy umiesz uogólnić?"
+
+Stawiałem to i podobne pytania w różnych środowiskach uczniowskich, studenckich i nauczycielskich. Dzieci pytały, co to znaczy. Uczniowie ograniczali się do banalnych pytań i odpowiedzi. A nauczyciele rozumieli oczywiście, o co chodzi, ale oni, najbardziej przyzwyczajeni do zadań zamkniętych, nie byli w stanie zadać ani jednego sensownego pytania, zaproponować rozwinięcia enigmatycznego "uogólnij". Mówię oczywiście o statystycznych danych, a nie o dosłownie wszystkich uczniach, studentach i nauczycielach.
+
+Cenię właśnie takie zadania, które dopuszczają możliwości zmian, interpretacji, uproszczeń i utrudnień, które mają wiele dróg dojścia do rozwiązania, które są dostępne niemal dla każdego, prowadzą w głąb matematyki, której tu nie nazywam "wyższą" a "uniwersytecką".
+
+Najpierw rozwiązanie. Można ułożyć program, generujący kolejne pola. Ponieważ jednak pole, o które chodzi, ma kolejny numer 3227616, więc nieładnie ułożony program może po prostu "nie doliczyć się" do tego miejsca. Mamy zatem alternatywę: udoskonalić program, czy znaleźć ładne rozumowanie, prowadzące do celu. Jedno i drugie jest wartościowe. Ale z komputerem czy bez możemy rozszerzyć podany wzorzec - początek rozwiązania. I teraz już wszystko jasne. Trzeba tylko umiejętnie spojrzeć na otrzymane informacje.
+
+
+Rys. 6
+Tablica ma układ blokowy. Bloki są kolejnych rozmiarów 2, 4, 8, 16, 32, ... - są to kolejne potęgi liczby 2. W każdej kolumnie i w każdym wierszu mamy permutację liczb od zera do 15. Na przekątnej mamy zera, nad przekątną jedynki. Na obrzeżach liczby od jedynki do 2n-1, w naszej tabelce od zera do 15. W każdym wierszu i każdej kolumnie mamy interesujące permutacje - ale o tym już nie pomówimy.
+
+Obliczmy, ile bloków potrzeba, by dojść do 2016. Dzielimy 2016 przez 32. Starsze pokolenie potrafi bez kalkulatora. Wychodzi 63. I tu jeszcze jeden powód, dla którego lubię to zadanie i ten typ zadań. To tak, jak wycieczka, gdzie chodzi nie tylko o cel, ale i o ciekawe miejsca, które mija się po drodze. Cóż to jest 32 razy 63, czyli wartość wyrażenia 2n-1(2n-1) dla n=6? Obliczmy wartości tego wyrażenia dla n będących liczbami pierwszymi: n=2, 3, 5, 7, 11, 13, 17, ... Otrzymamy: 6, 28, 120, 496, 2016, 8128, 32640, 130816, 523776, 2096128. ... a to liczby doskonałe. Tak właśnie szkoła pitagorejska nazwała liczby równe sumie swoich dzielników (nie licząc samej liczby). Przykładowo, 496 dzieli się przez: 1, 2, 4, 8, 16, 31, 62, 124, 248, 496.
+
+No a suma 1 + 2 + 4 + 8 + 16 + 31 + 62 + 124 + 248 = 496. Twierdzenie Euklidesa-Eulera powiada, że wzór 2p-1(2p-1) daje wszystkie parzyste liczby doskonałe (p w tym wzorze ma być liczbą pierwszą). Istnienie nieparzystych liczb doskonałych jest nierozwiązanym problemem matematycznym, i to takim z gatunku "beznadziejnych" - na razie nikt nie ma pomysłu, jak się do tego zabrać. Na razie! Przyjdzie w końcu jednak ktoś, kto wymyśli!
+
+Liczba 6 nie jest pierwsza, zatem 2016 nie jest liczbą doskonałą. Ma nawet więcej dzielników niż "potrzeba". Oto lista dzielników liczby 2016: 1, 2, 3, 4, 6, 7, 8, 9, 12, 14, 16, 18, 21, 24, 28, 32, 36, 42, 48, 56, 63, 72, 84, 96, 112, 126, 144, 168, 224, 252, 288, 336, 504, 672, 1008 Ich suma to 4536, znacznie więcej niż 2016. Z postaci 2p-1(2p-1) wynika jednak, że 2016 jest liczbą trójkątną: sumą kolejnych liczb od jedynki (albo od zera) do 63: 0 + 1 + 2 + 3 + 4 + 5 + 6 + ... + 59 + 60 + 61 + 62 + 63 = 2016
+
+Przypomina to historyjkę o wynalezieniu szachów. Pisałem o niej wielokrotnie i nie będę się powtarzał. Odsyłam... do Internetu.
+
+Mądrze się rozproszyć
+Revenons á nos moutons. To francuskie zdanie znaczy dosłownie "wracajmy do naszych baranów", a prawdziwe znaczenie to mniej więcej: "wróćmy do rzeczy" (polecam zajrzenie do Wikipedii). Powróćmy do naszego zadania. I to lubię w zadaniach pewnego typu - że można się zagubić w dygresjach tak, że na samo zadanie nie wystarcza już ani czasu, ani cierpliwości. Przestaje nas interesować cel. Rozproszyliśmy się, rozmieniliśmy na drobne. Muszę przyznać, że ja to właśnie w zadaniu lubię, chociaż chyba to niepedagogicznie...
+
+Rozpatrzmy bloki rzędu 5, to znaczy tablice 32 na 32. Południowo-wschodnim wierzchołkiem sześćdziesiątego trzeciego bloku jest 2015. Następna kolumna zaczyna się na 2016 i do połowy wysokości maleje aż do 1007. Potem startuje od zera, osiągając wartość 593 na poziomie, o który nam chodzi, to znaczy 1601. Zadanie rozwiązane! Ajaj, nie do końca. A co z pytaniem o uogólnienie? To już niech będzie kwestia do domu, dla Czytelników, na nadchodzące upały.
+
+
+Polecane artykuły
+O tym jak deepfake głęboko nas wkręcaO tym jak deepfake głęboko nas wkręca
+00
+Kłopot z "wynalazcami" AI Gdy algorytm krzyczy: Eureka!Kłopot z "wynalazcami" AI Gdy algorytm krzyczy: Eureka!
+00
+Jeszcze o liczbach  nieparzystychJeszcze o liczbach nieparzystych
+00
+Jak działa światłowód? Przesył informacji - część 2Jak działa światłowód? Przesył informacji - część 2
+00
+Siłą czy sposobem?
+Siłą czy sposobem?
+PODZIEL SIĘ:Facebook Tweet Google
+
+Pod takim właśnie tytułem Stowarzyszenie na rzecz Edukacji Matematycznej zorganizowało kolejną konferencję, poświęconą nauczaniu matematyki w naszym kraju. Od kilkunastu lat poziom maturzystów systematycznie się obniża. Jest to zjawisko obserwowane przez ogół nauczycieli akademickich. Mówię tu nie tylko o zespole wiadomości, ale o jakości tego, co potrafią studenci pierwszego roku studiów. Sytuacja nie jest zawiniona przez nauczycieli (zahamowanie tego trendu niezmiennie obiecuje od lat Ministerstwo Edukacji Narodowej). Kto jest zatem winien? Mam na to prostą (zbyt prostą?) odpowiedź: XXI wiek.
+
+Podczas międzynarodowych badań polscy uczniowie wypadają dobrze w zadaniach typu algorytmicznego: "spójrz na brudne spodnie i wybierz odpowiedni program prania". Gorzej w zadaniach istotnie twórczych. Niemal wszystkie egzaminy polegają teraz na tym, że uczeń (student) ma pokazać to, czego nauczył się w szkole i w domu.
+
+Tu każdy zapyta - jak to, czy może być inaczej? Przecież, u licha, na tym polega egzamin! Sprawdzenie, czego się adept nauczył. No i… właśnie nie, a raczej: nie musi być tak! Różnicę łatwo zrozumiemy na przykładzie ze sportu. Egzaminem dla piłkarza nie jest to, czego nauczył się na treningach, tylko jak to, czego się nauczył, zaprezentuje w meczu. W odniesieniu do matematyki: ja, nauczyciel, zakładam, że ty, uczniu, umiesz to, czego cię uczyłem. Pokaż zatem, jak tę wiedzę zastosujesz!
+
+Pokolenia dydaktyków matematyki zadawały sobie pytanie: czy w szkole uczyć myślenia, czy algorytmów? Odpowiedź była zawsze jedna: myślenia. Praktyka również: w szkole zawsze uczono i uczy się do tej pory przede wszystkim algorytmów.
+
+Zadania, pomysły, metody
+Wystarczy tego mądrzenia się; spójrzmy na zadania, które rozwiązać jest o wiele łatwiej, gdy zastosujemy pewien pomysł - niekiedy drobny, niekiedy dość karkołomny. Zadania te pochodzą z odczytów koleżanek i kolegów podczas wspomnianej konferencji. Nie przytaczam nazwisk owych koleżanek i kolegów - przykłady są ogólnie znane. Zacznę od mojego ulubionego działu matematyki szkolnej: równania i funkcje kwadratowe.
+
+Zadanie. Rozwiązać równanie kwadratowe x2+4x-21=0. Wyznaczyć minimum funkcji kwadratowej, widocznej po lewej stronie.
+
+W Europie rozwiązuje się to zadanie, podstawiając do odpowiednich wzorów. W USA za każdym razem dzieci (no tak, bo to są jednak dzieci) sprowadzają je do czegoś, co z kolei u nas nazywa się postacią kanoniczną: x2+4x-21=(x+2)2-25, a stąd już wynika, co chcemy. Trzeba tylko chwilę pomyśleć. Dlaczego wartością najmniejszą tego wyrażenia jest -25? Ano dlatego, że wielkość x+2 podniesiona do kwadratu jest zawsze dodatnia… Z jednym tylko wyjątkiem: dla x = -2 przyjmuje wartość zero…, no a zero nie jest dodatnie!
+
+Zadanie następne ma pewną historię. Otrzymałem je na egzaminie wstępnym na Uniwersytet Warszawski. Kiedy to było? No, dawno temu - idąc na egzamin, spotkałem na Krakowskim Przedmieściu dinozaura… Zadanie było proste: "rozwiąż równanie sin x+cos x=2".
+
+"Ach, to proste - myślałem. Zamienię sinus na cosinus, skorzystam z odpowiedniego wzoru… i coś wyjdzie". Po chwili jednak spostrzegłem, że zadanie jest banalne. Zarówno wartość sinusa, jak i cosinusa nie przekracza nigdy liczby 1, a stąd przecież wynika, że aby suma była równa 2, zarówno sinus, jak i cosinus muszą przyjmować wartość 1, co jest przecież niemożliwe, bo pamiętamy o "jedynce trygonometrycznej": sin2 x+cos2 x=1 Po chwili jednak zaniepokoiłem się. "Czy to jest dopuszczalne rozwiązanie, czy wypada mi, czy wręcz wolno, stosować takie tricki?" Siedziałem niepewny i na wszelki wypadek rozwiązałem zadanie standardowo. Mamy bowiem:
+sin x+cos x=sin x+sin (90°-x)= 2 sin 45° cos (x-45°)= √2 cos (x-45°)≤√2, a zatem największą wartością sumy sinusa i kosinusa (tego samego kąta) jest √2 !
+
+Zwróćmy uwagę, że rozwiązanie pierwsze dało wynik szybciej, natomiast rozwiązanie drugie, "siłowe", dało więcej: obliczyłem największą wartość danej funkcji i wykazałem, że funkcja ta jest w zasadzie "zwykłym cosinusem", tyle że przesuniętym i pomnożonym przez √2 .
+
+Gdy po kilkunastu latach sam już byłem nauczycielem, dawałem to zadanie uczniom liceum. W tych czasach uczono już rachunku różniczkowego. Uczniowie nie mieli wątpliwości: zróżniczkować, przyrównać do zera… i co dalej? Właśnie! Dochodzili do równania sin x = cos x , którego nie potrafili rozwiązać (!), bo nie było w zestawie typowych równań trygonometrycznych.
+
+Pamiętam kolegę ze szkolnej ławy, Krzysztofa. Nie dostał się na Politechnikę, powołano go zatem do wojska - takie były wtedy reguły: studia albo wojsko. Zwolniono go po pół roku z powodów zdrowotnych. Postanowił spróbować jeszcze raz na Politechnikę; douczałem go. Przez dobry miesiąc gnębiłem go równaniem sin x+cos x=2. Nie rozwiązał samodzielnie. Co gorsza, "mojego" rozwiązania po prostu nie zrozumiał. Wtedy nie rozumiałem, czego on nie rozumie. Teraz widzę: nauczanie algorytmiczne ("nie staraj się zrozumieć, po co ci to, szukaj tylko wzoru, pod który mógłbyś podstawić dane!") nie jest wymysłem dnia dzisiejszego…
+
+Do czego to może doprowadzić, opisał w referacie jeden z uczestników konferencji. Na konkursie matematycznym dla uczniów niższych szkoły podstawowej dano zadanie: "Ile to jest 64:4". Komisja nie uznała rozwiązania pewnego ucznia, który napisał tak: "64:2 = 32, 32:2 = 16, zatem 64:4 = 16". Chodziło bowiem o to, by zaprezentować pisemny algorytm dzielenia. Oczywiście komisja zbłaźniła się - ale z podobnym zjawiskiem, podobnym dylematem spotykamy się często. Co jest więcej warte: pomysłowe rozwiązanie, ale dające się zastosować do jednego, konkretnego zadania, czy brzydsze, ale ogólniejsze?
+
+Nie ma też zgody wśród nauczycieli co do stosowalności pewnych metod. Oto typowy, bardzo dobrze znany, przykład.
+
+Zadanie 3. Wykazać, że w dowolnym czworościanie musi istnieć taka ściana, iż rzut jego środka ciężkości na płaszczyznę tej ściany znajdzie się wewnątrz lub na krawędzi ściany.
+
+Jeden z uczestników olimpiady matematycznej (bo na niej było to zadanie) napisał: "gdyby tak nie było, czworościan ten po postawieniu na stole bez ustanku by się przewracał, a jak uczy fizyka, jest to niemożliwe".
+
+Ja osobiście bardzo lubię pomysł na wykazanie, że suma kątów trójkąta jest równa 180 stopni. Użyłem tu świadomie słowa "wykazanie", a nie "dowód". Dowód w sensie matematycznym polega na wyprowadzeniu danego twierdzenia z aksjomatów bądź innych znanych twierdzeń, drogą dedukcji. Każdy krok ma być logicznie uzasadniony. Inne rozumowanie, choć może byłoby wystarczające dla sądu, nie jest dowodem matematycznym.
+
+Niech w wierzchołkach trójkąta ABC znajdują się obrotnice dla lokomotyw. Lokomotywa wyjeżdża z A przodem w kierunku B. W punkcie B obracamy ją o kąt B, czyli kąt przy wierzchołku B. Odcinek BC lokomotywa pokonuje tyłem. W punkcie C obracamy ją o kąt C. Do A dociera, jadąc przodem. Aby była gotowa do jazdy do B, obracamy ją w punkcie A o kąt A. W ten sposób stoi tyłem do B, czyli obrócona o 180 stopni względem położenia początkowego. Ale obracano ją trzykrotnie: o kąt B, potem o kąt C, wreszcie o kąt A. Znaczy to, że suma kątów A+B+C jest równa 180 stopni. Zawsze byłem zwolennikiem zadań o pociągach…
+
+Ciekawy pomysł mamy w dowodzie jednego z pierwszych twierdzeń geometrii rzutowej, które zostało sformułowane i udowodnione w XVII wieku przez francuskiego matematyka Gérarda Desarguesa. Stanowi przykład twierdzenia, które jest niezależne od oryginalnego układu aksjomatów geometrii podanego przez Euklidesa - oznacza to, że nie da się go udowodnić ani obalić, bez przyjęcia dodatkowych założeń. Twierdzenie to wyjaśnia, że jest możliwa bardzo szczególna konfiguracja dziesięciu punktów; na rysunku to O, A, B, C, D, E, F, K, L, M. Jeżeli boki trójkątów ABC DEF (a raczej przedłużenia tych boków) przechodzą przez wspólny punkt O, to punkty wspólne prostych łączących stosowne wierzchołki leżą na jednej prostej. Skomplikowane sformułowanie wyjaśnia rysunek. Punkty K, L, M leżą na jednej prostej.
+
+Można powiedzieć tak: da się posadzić 10 drzew w siedmiu rzędach, po trzy drzewa w jednym rzędzie.
+
+Twierdzenie jak twierdzenie. Jest ważne w tzw. geometrii rzutowej. Co jest interesujące, to dowód. Spójrzmy na figurę DEFABCO jak na bryłę przestrzenną, ostrosłup o podstawie DEF i wierzchołku O, przecięty płaszczyzną ABC. Płaszczyzna podstawy DEF i płaszczyzna ABC mają wspólną krawędź. To właśnie prosta KLM.
+
+Dowód ten wymaga pewnych uściśleń - np. czy płaszczyzny ABC i DEF nie mogą być równoległe. Mogą… i trzeba o tym chwilę podyskutować, czego czynić nie będę dla oszczędności miejsca na stronie.
+
+Zmiana paradygmatu
+Zakończę poważną dyskusją. Nie wiem, jak wielu Czytelników ona zainteresuje - bo ile osób interesuje się rozwojem matematyki? Historia sięga lat 50., a nawet 40. XX wieku. Już przed II wojną światową znana była grupa francuskich matematyków, używająca wspólnego pseudonimu Nicolas Bourbaki (podobno autentyczny Bourbaki był jednym z wielu oficerów Napoleona, którzy nie przeżyli odwrotu spod Moskwy). W czasie wojny kilku z tych matematyków dostało się do niewoli niemieckiej, a ponieważ w porównaniu z obozami dla polskich oficerów warunki mieli komfortowe, mogli zająć się matematyką. W dziesięć lat potem narzucili całej społeczności matematycznej nowy paradygmat.
+
+Pojęcie "paradygmatu", stworzone przez Thomasa Kuhna w latach 60. dwudziestego wieku, może być w najlepszy sposób przybliżone jako "zbiór idei, w które trzeba wierzyć". Oznacza nie tyle metodę, co styl działania w nauce, sposób patrzenia na nią, charakter jej uprawiania. Już nie liczby, figury, bryły i funkcje były ważne. Ważna była forma, idea, ogólność. Ten zwrot kierunku badań wyrzucił za burtę jedną z dwóch najważniejszych specjalności pięknej polskiej szkoły matematycznej: topologię geometryczną. Przepraszam, nie będę wyjaśniał, o co chodzi. Powiem tylko, że badania polskich matematyków dotyczyły przestrzeni bardzo skomplikowanych, ale i bardzo dziwnych; teraz powiedzielibyśmy, że udziwnionych. Do każdego zadania trzeba było wymyślić specjalny sposób. Żadnej ogólności nie było (no, jednak trochę przesadzam). W "nowej" matematyce liczyło się zaś tylko to, co ogólne. Tak jest i do tej pory, chociaż rozwój komputerów sprawia, że tricki są znowu potrzebne. Niewielu protestowało przeciwko nowej matematyce. "Matematyka sprowadzona do ogólnych teorii byłaby piękna, ale bez treści. Wkrótce by umarła."
+
+Napisane ok. 300 r. p.n.e. "Elementy" Euklidesa były, po pewnych przeróbkach, aż do początków XIX wieku zarówno podręcznikiem dla uczącej się młodzieży, jak i nieodzowną lekturą zawodowych matematyków. O dziele tym wyrażali się wszyscy z największym podziwem. Przytoczmy słowa Alberta Einsteina: "Ten najbardziej zdumiewający produkt myśli dał ludzkiemu rozumowi tę wiarę w siebie, która była niezbędna dla jego dalszej działalności".
+
+"Świat jest odbiciem idei, w które ludzie wierzą". Przyznawało to wielu myślicieli. "Elementy" Euklidesa nie tylko uporządkowały wiedzę geometryczną, jaką 300 lat przed naszą erą mieli Grecy. Gottfried Wilhelm Leibniz napisał w 1704 r.: "trzeba przyznać, że Grecy w matematyce rozumowali z wszelką możliwą dokładnością i że pozostawili rodzajowi ludzkiemu wzory sztuki dowodzenia". Dla licznych pokoleń Euklides był przede wszystkim nauczycielem logiki. Dlatego ideał logicznego budowania nauki bywał nazywany w XVII i XVIII wieku sposobem geometrycznym.
+
+Rzecz zadziwiająca, że tak praktyczna umiejętność jak mierzenie ziemi zmieniła się we wzorzec matematycznej ścisłości, precyzji, metod dowodzenia, argumentacji i w ogóle logiki. Aż do połowy XIX wieku termin "geometra" oznaczał bowiem matematyka, "matematykiem" - zgodnie przecież z etymologią słowa - był zaś każdy uczony uprawiający nauki ścisłe, a "sposobem geometrycznym" zostały napisane takie dzieła, jak "Wzorzec dowodów politycznych" Leibniza, "Etyka" Spinozy i "Optyka" Newtona.
+
+Co to ma wspólnego z tematem tego artykułu? Ano, zapoczątkowana jeszcze w latach 50. XX wieku zmiana paradygmatu matematyki dała w rezultacie bardzo głęboką reformę nauczania, która do Polski trafiła w połowie następnej dekady. "Będziemy mogli uczyć przedszkolaków wyższej matematyki" wołali zachwyceni matematycy, a dydaktycy - głównie za sprawą Zofii Krygowskiej - napisali stosowne podręczniki. I już po kilku latach okazało się, że owszem, można uczyć wszystkich wszystkiego, ale nikt niczego nie rozumie - z wyjątkiem garstki młodych ludzi, zafascynowanych samą matematyką. Sytuację "poprawiono", wyrzucając matematykę z egzaminu maturalnego. Gdy potem przywrócono matematykę na maturze, okazało się, że młodzież umie mniej niż przed pierwszą reformą. "Chcieliśmy dobrze, a wyszło jak zwykle". Nie spowiadam się z cudzych grzechów - sam należałem do entuzjastów nauczania matematyki w jak najszerszym zakresie, a usprawiedliwienie, żem był młody i głupi, jest wykrętem.
+
+Powoli wycofaliśmy się z tej reformy, a efekt jo-jo, znany grubasom, dał to, co zawsze daje. Nastąpiło wahnięcie w przeciwną stronę: poziom spadł poniżej poziomu wyjściowego. Ale o tym za miesiąc…
+
+
+Polecane artykuły
+O tym jak deepfake głęboko nas wkręcaO tym jak deepfake głęboko nas wkręca
+00
+Kłopot z "wynalazcami" AI Gdy algorytm krzyczy: Eureka!Kłopot z "wynalazcami" AI Gdy algorytm krzyczy: Eureka!
+00
+Jeszcze o liczbach  nieparzystychJeszcze o liczbach nieparzystych
+00
+Jak działa światłowód? Przesył informacji - część 2Jak działa światłowód? Przesył informacji - część 2
+00
+Pozostałe artykuły
+AVT1648. Softstart do elektronarzędziAVT1648. Softstart do elektronarzędzi
+Urządzenia dołączane do sieci energetycznej, takie jak elektronarzędzia, silniki, transformatory o mocach wyższych od 1 kW i inne, w momencie włączenia zasilania powodują gwałtowny impuls ...
+00
+Międzynarodowe Mistrzostwa Polski Jachtów Klasy Footy, Wrocław 2023Międzynarodowe Mistrzostwa Polski Jachtów Klasy Footy, Wrocław 2023
+Najmniejsza z regatowych klas modeli jachtów opisana została po raz pierwszy w Polsce na łamach „Młodego Technika” przy okazji premiery modelu Opałek FOOTY RC w numerze 6/2009 (później ...
+00
+AVT1945. Moduł komfortowych kierunkowskazówAVT1945. Moduł komfortowych kierunkowskazów
+Działanie modułu komfortowych kierunkowskazów polega na tym, że po włączeniu kierunkowskazu choćby na ułamek sekundy odpowiednia strona mrugnie trzy razy. Jeśli włączymy kierunkowskaz ...
+00
+Metr wikinga!Metr wikinga!
+Małe modele wikińskich łodzi budowaliśmy już razem z "Młodym Technikiem" przy okazji regat rynnowych - ściśle w wydaniu październikowym z 2014 r. naszego miesięcznika. Tym razem Na ...
+00

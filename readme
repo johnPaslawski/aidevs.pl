@@ -1,0 +1,14 @@
+aidevs aidevs aidevs aidevs aidevs aidevs aidevs aidevs aidevs aidevs aidevs aidevs aidevs aidevs aidevs aidevs aidevs aidevs 
+AI Devs, AIDEVS.pl
+AI Devs, AIDEVS.pl
+AI Devs, AIDEVS.pl
+AI Devs, AIDEVS.pl
+
+Why services
+Components shouldn't fetch or save data directly, and they certainly shouldn't knowingly present fake data. They should focus on presenting data and delegate data access to a service.
+
+This tutorial creates a HeroService that all application classes can use to get heroes. Instead of creating that service with the 
+new
+keyword, use the dependency injection that Angular supports to inject it into the HeroesComponent constructor.
+
+Services are a great way to share information among classes that don't know each other. Create a HeroService next and inject it in the HeroesComponent, to provide hero data.
